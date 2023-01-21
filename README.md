@@ -21,9 +21,9 @@ I'll mention two really good repositories that will be really helpful as they ha
 ## Deep Learning.
 - [Best Textual and Understandable Resource for Deep Learning](https://d2l.ai/index.html)
 
-Word of Caution/Advice :  Just stick to one thing at a time. Don’t try to do too much at once ! 
+*Word of Caution/Advice* :  Just stick to one thing at a time. Don’t try to do too much at once ! 
 
 Apart from that, many popular ML frameworks have some really good tutorials : 
 
-https://github.com/pytorch/examples
-https://github.com/tensorflow/examples
+- [PyTorch](https://github.com/pytorch/examples)
+- [Tensorflow](https://github.com/tensorflow/examples)
