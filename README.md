@@ -1,4 +1,4 @@
-# Resourc Thing. 
+# Resource Thing. 
 A Good Repository containing all the resources that you need. Mostly Data Science/Machine Learning and similar. Fork and add ; Create Pull Request. 
 
 ## Artificial Intelligence Notes.
