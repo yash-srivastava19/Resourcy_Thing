@@ -11,3 +11,19 @@ If you are into reading research papers in the field of data science/machine lea
 I'll mention two really good repositories that will be really helpful as they have compiled a lot of resources. Check these out.
 - [Data Science Resources-1](https://github.com/cdeweyx/DS-Career-Resources)
 - [Data Science Resources-2](https://github.com/khanhnamle1994/cracking-the-data-science-interview)
+- [Data Science Resources-3](https://github.com/datascienceid/machine-learning-resources) 
+
+## Machine Learning Resources.
+- [Kaggle Learn Courses](https://www.kaggle.com/learn)
+- [Google Codelabs](https://codelabs.developers.google.com/s/results?q=ML)
+- [Books, Videos, Podcasts, Courses and Papers](https://github.com/rueedlinger/ml-resources)
+
+## Deep Learning.
+- [Best Textual and Understandable Resource for Deep Learning](https://d2l.ai/index.html)
+
+Word of Caution/Advice :  Just stick to one thing at a time. Don’t try to do too much at once ! 
+
+Apart from that, many popular ML frameworks have some really good tutorials : 
+
+https://github.com/pytorch/examples
+https://github.com/tensorflow/examples
